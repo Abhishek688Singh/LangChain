@@ -7,3 +7,5 @@ ipykernel
 pydantic
 typing
 email-validator
+requests
+certifi
